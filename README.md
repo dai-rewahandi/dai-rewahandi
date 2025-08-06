@@ -3,19 +3,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 December 2024 - To: 03 August 2025
+From: 17 December 2024 - To: 04 August 2025
 
-Total Time: 301 hrs 51 mins
+Total Time: 307 hrs 28 mins
 
-Astro                 129 hrs 46 mins >>>>>>>>>>>--------------   42.07 %
-TypeScript            53 hrs 58 mins  >>>>---------------------   17.50 %
-Lua                   20 hrs 2 mins   >>-----------------------   06.50 %
-Svelte                18 hrs 39 mins  >>-----------------------   06.05 %
-JavaScript            13 hrs 36 mins  >------------------------   04.41 %
-Bash                  10 hrs 49 mins  >------------------------   03.51 %
-SCSS                  10 hrs 23 mins  >------------------------   03.37 %
-CSS                   10 hrs 8 mins   >------------------------   03.29 %
-Other                 6 hrs 35 mins   >------------------------   02.14 %
+Astro                 129 hrs 46 mins >>>>>>>>>>---------------   41.32 %
+TypeScript            56 hrs 8 mins   >>>>---------------------   17.88 %
+Svelte                21 hrs 50 mins  >>-----------------------   06.96 %
+Lua                   20 hrs 3 mins   >>-----------------------   06.38 %
+JavaScript            13 hrs 36 mins  >------------------------   04.33 %
+Bash                  10 hrs 49 mins  >------------------------   03.45 %
+CSS                   10 hrs 23 mins  >------------------------   03.31 %
+SCSS                  10 hrs 23 mins  >------------------------   03.31 %
+Other                 6 hrs 36 mins   >------------------------   02.10 %
 ```
 
 <!--END_SECTION:waka-->
